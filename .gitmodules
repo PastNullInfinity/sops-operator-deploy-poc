@@ -1,0 +1,3 @@
+[submodule "sops-operator"]
+	path = sops-operator
+	url = https://github.com/PastNullInfinity/sops-secrets-operator.git

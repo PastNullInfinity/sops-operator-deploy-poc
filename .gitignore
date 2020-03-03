@@ -1,0 +1,4 @@
+**/keys
+**/*.plain.yml
+**/keys.tar.gz
+**/.vscode
